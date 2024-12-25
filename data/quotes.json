@@ -1,0 +1,102 @@
+[
+    {
+        "text": "Premature optimization is the root of all evil.",
+        "autor": "Donald Knuth"
+    },
+    {
+        "text": "The best way to predict the future is to invent it.",
+        "autor": "Alan Kay"
+    },
+    {
+        "text": "The most dangerous phrase in the English language is 'We've always done it this way'.",
+        "autor": "Grace Hopper"
+    },
+    {
+        "text": "There are only two hard things in computer science: cache invalidation and naming things.",
+        "autor": "Phil Karlton"
+    },
+    {
+        "text": "The computer was born to solve problems that did not exist before.",
+        "autor": "Bill Gates"
+    },
+    {
+        "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+        "autor": "Bill Gates"
+    },
+    {
+        "text": "The three great virtues of a programmer: laziness, impatience, and hubris.",
+        "autor": "Larry Wall"
+    },
+    {
+        "text": "Code is like humor. When you have to explain it, it’s bad.",
+        "autor": "Cory House"
+    },
+    {
+        "text": "Write tests until fear is transformed into boredom.",
+        "autor": "Kent Beck"
+    },
+    {
+        "text": "Computer Science is no more about computers than astronomy is about telescopes.",
+        "autor": "Edsger W. Dijkstra"
+    },
+    {
+        "text": "Simplicity is prerequisite for reliability.",
+        "autor": "Edsger W. Dijkstra"
+    },
+    {
+        "text": "The computing scientist’s main challenge is not to get confused by the complexities of his own making.",
+        "autor": "Edsger W. Dijkstra"
+    },
+    {
+        "text": "An algorithm must be seen to be believed.",
+        "autor": "Donald Knuth"
+    },
+    {
+        "text": "If you think your users are idiots, only idiots will use it.",
+        "autor": "Linus Torvalds"
+    },
+    {
+        "text": "First, solve the problem. Then, write the code.",
+        "autor": "John Johnson"
+    },
+    {
+        "text": "The function of good software is to make the complex appear to be simple.",
+        "autor": "Grady Booch"
+    },
+    {
+        "text": "The task of the software development team is to engineer the illusion of simplicity.",
+        "autor": "Grady Booch"
+    },
+    {
+        "text": "In God we trust, all others must bring data.",
+        "autor": "W. Edwards Deming"
+    },
+    {
+        "text": "If you can't describe what you are doing as a process, you don't know what you're doing.",
+        "autor": "W. Edwards Deming"
+    },
+    {
+        "text": "Much of the essence of building a program is in fact the debugging of the specification.",
+        "autor": "Fred Brooks"
+    },
+    {
+        "text": "When debugging, novices insert corrective code; experts remove defective code.",
+        "autor": "Richard E. Pattis"
+    },
+    {
+        "text": "In programming the hard part isn’t solving problems, but deciding what problems to solve.",
+        "autor": "Paul Graham"
+    },
+    {
+        "text": "Prolific programmers contribute to certain disaster.",
+        "autor": "Niklaus Wirth"
+    },
+    {
+        "text": "Software gets slower faster than hardware gets faster.",
+        "autor": "Niklaus Wirth"
+    },
+    {
+        "text": "You can’t have great software without a great team, and most software is not great.",
+        "autor": "Joel Spolsky"
+    }
+]
