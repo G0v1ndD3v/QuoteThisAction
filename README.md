@@ -5,8 +5,8 @@ A GitHub Action I created to share my favorite quotes on my profile.
 
 <!-- START QUOTE -->
 ```
-The best way to predict the future is to invent it.
-— Alan Kay
+The three great virtues of a programmer: laziness, impatience, and hubris.
+— Larry Wall
 ```
 <!-- END QUOTE -->
 
