@@ -5,8 +5,8 @@ A GitHub Action I created to share my favorite quotes on my profile.
 
 <!-- START QUOTE -->
 ```
-First, solve the problem. Then, write the code.
-— John Johnson
+Write tests until fear is transformed into boredom.
+— Kent Beck
 ```
 <!-- END QUOTE -->
 
