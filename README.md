@@ -5,8 +5,8 @@ A GitHub Action I created to share my favorite quotes on my profile.
 
 <!-- START QUOTE -->
 ```
-Write tests until fear is transformed into boredom.
-— Kent Beck
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
+— Paul Graham
 ```
 <!-- END QUOTE -->
 
