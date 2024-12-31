@@ -5,8 +5,8 @@ A GitHub Action I created to share my favorite quotes on my profile.
 
 <!-- START QUOTE -->
 ```
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
-— Paul Graham
+Premature optimization is the root of all evil.
+— Donald Knuth
 ```
 <!-- END QUOTE -->
 
