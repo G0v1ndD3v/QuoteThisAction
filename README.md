@@ -5,8 +5,8 @@ A GitHub Action I created to share my favorite quotes on my profile.
 
 <!-- START QUOTE -->
 ```
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
-— Edsger W. Dijkstra
+First, solve the problem. Then, write the code.
+— John Johnson
 ```
 <!-- END QUOTE -->
 
