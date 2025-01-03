@@ -5,8 +5,8 @@ A GitHub Action I created to share my favorite quotes on my profile.
 
 <!-- START QUOTE -->
 ```
-First, solve the problem. Then, write the code.
-— John Johnson
+The function of good software is to make the complex appear to be simple.
+— Grady Booch
 ```
 <!-- END QUOTE -->
 
