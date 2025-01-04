@@ -5,8 +5,8 @@ A GitHub Action I created to share my favorite quotes on my profile.
 
 <!-- START QUOTE -->
 ```
-The function of good software is to make the complex appear to be simple.
-— Grady Booch
+There are only two hard things in computer science: cache invalidation and naming things.
+— Phil Karlton
 ```
 <!-- END QUOTE -->
 
