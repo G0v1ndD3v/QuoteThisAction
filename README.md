@@ -5,6 +5,8 @@ A simple GitHub Action I created to share my favorite quotes on my profile.
 
 <!-- START QUOTE -->
 ```
+Code is like humor. When you have to explain it, it’s bad.
+— Cory House
 ```
 <!-- END QUOTE -->
 
