@@ -1,0 +1,17 @@
+name: "QuoteThisAction"
+description: "A GitHub Action to add dev quotes to your README."
+author: "Govind S Nair"
+
+inputs:
+  quotes_file:
+    description: "Path to the quotes.json file"
+    required: true
+    default: "data/quotes.json"
+  readme_file:
+    description: "Path to the README.md file"
+    required: true
+    default: "README.md"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
